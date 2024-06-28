@@ -1,6 +1,6 @@
 public class Solution {
     public string GcdOfStrings(string str1, string str2) {
-        // verifies that str1 + str2 are pallindrome-esque
+        // verifies that str1 + str2 are the same pattern
         if (!(str1 + str2).Equals(str2 + str1)) {
             return "";
         }
