@@ -2,6 +2,7 @@
 
 ## Takeaways
 Questions can be misleading/not clearly worded. Read the discuss section and look at solutions provided by the community to understand.
+This is also not the best was of solving it, the `Euclidian` algorithm is the proper way but I hadn't learnt of it until now.
 
 ## Guide (C#)
 1. First we have to verify our edge case, so we check that the strings follow a pattern.
