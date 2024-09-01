@@ -9,4 +9,4 @@ The purpose of this repo is to store my leetcode solutions & guides for help in 
 > [!NOTE]
 > This is inspired by [TJ Klint](https://github.com/tjklint)'s leetcode repo. I realized I'm wasting free time doomscrolling so why not use it to get better at coding while summer is around.
 >
-> When I am struggling on a problem, I will look to [NeetCode](https://www.youtube.com/@NeetCode) for help & tutorials.
+> When I am struggling on a problem, I will look to [NeetCode](https://www.youtube.com/@NeetCode) for help & tutorials or any other resource online.
