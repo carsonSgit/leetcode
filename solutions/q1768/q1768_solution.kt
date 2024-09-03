@@ -3,7 +3,7 @@ class Solution {
         return buildString {
             val minLength = minOf(word1.length, word2.length)
 
-            for (i in 0..minLength - 1) {
+            for (i in 0 until minLength) {
                 append(word1[i])
                 append(word2[i])
             }
